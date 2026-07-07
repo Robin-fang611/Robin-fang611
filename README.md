@@ -69,19 +69,6 @@
 
 <br />
 
-### Tech I Work With
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-AI%20Native-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-
-<br />
-
 ---
 
 <div align="center">
@@ -91,6 +78,10 @@
   &nbsp;
   <a href="https://www.xiaohongshu.com/user/profile/685b590b000000001b021d86">
     <img src="https://img.shields.io/badge/小红书-000000?style=for-the-badge&logo=xiaohongshu&logoColor=FF2442" />
+  </a>
+  &nbsp;
+  <a href="https://www.douyin.com/user/self?from_tab_name=main">
+    <img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://x.com/Robin126988">
