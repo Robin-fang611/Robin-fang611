@@ -1,96 +1,47 @@
-<div align="center">
+# 房钰斌 · Robin Fang
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Robin+%2F+%E6%88%BF;AI-native+Builder;FDE+%C2%B7+%E4%BC%A0%E7%BB%9F%E8%A1%8C%E4%B8%9A%E6%95%B0%E5%AD%97%E5%8C%96" alt="Typing SVG" />
+> 市场营销出身、不写代码的 AI 原生构建者。把 AI 带到业务发生的地方。
 
-</div>
-
----
-
-<div align="center">
-  <samp>大学生创业者 &nbsp;·&nbsp; 独立 FDE 开发者 &nbsp;·&nbsp; AI 原生构建者</samp>
-</div>
-
-<br />
-
-### About Me
-
-非技术背景，vibe-coding 一切。坚信 AI 应该走进传统行业解决脏活累活，而不是停留在 demo 里。
-
-目前在做两件事：
-
-- **学术** — 原创概念 **OPC-FDE**（一人公司 × 前置部署工程师），探索数字经济下轻量化嵌入传统企业的路径
-- **实践** — 以 FDE 模式帮传统货代公司做数字化改造，首位客户：深圳华邦通运
-
-> 以上所有项目，我一行代码都没手写过 — 全是 AI 帮我写的。
-
-<br />
-
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🗺️ 武汉美食地图</h4>
-      <p>AI + 高德 API，覆盖财大周边 50+ 家、全城 540+ 家店。大一新生再也不用愁去哪吃。</p>
-      <p>
-        <sub>
-          <strong>TypeScript</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-          <strong>高德 API</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-          <strong>Cursor</strong>
-        </sub>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>📧 货代邮件工作台</h4>
-      <p>货代行业每天几百封邮件，AI 自动归类 + 提取关键信息，从小时级压缩到分钟级。</p>
-      <p>
-        <sub>
-          <strong>TypeScript</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-          <strong>邮件 API</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-          <strong>Claude Code</strong>
-        </sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h4>🧰 FDE Project Evolution</h4>
-      <p>给中小企业用的 AI 落地工具包 — 方法论 + 场景评分卡 + Codex Skill，开发者拿去就能跑。</p>
-      <p>
-        <sub>
-          <strong>Python</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-          <strong>Codex Skill</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
-          <strong>Workflow Design</strong>
-        </sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
+武汉 / 深圳 · 中南财经政法大学市场营销 2028 届 · 更新 2026.10
 
 ---
 
-<div align="center">
-  <a href="https://space.bilibili.com/1340728968">
-    <img src="https://img.shields.io/badge/Bilibili-000000?style=for-the-badge&logo=bilibili&logoColor=00A1D6" />
-  </a>
-  &nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/685b590b000000001b021d86">
-    <img src="https://img.shields.io/badge/小红书-000000?style=for-the-badge&logo=xiaohongshu&logoColor=FF2442" />
-  </a>
-  &nbsp;
-  <a href="https://www.douyin.com/user/self?from_tab_name=main">
-    <img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Robin126988">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</div>
+### 现在
 
-<br />
+- **云天远略（深圳）· 合伙人** — 驻场把 AI 做进客户的报价与单证流程；项目制、按结果结算。
+- **Linkathon · 早期共建者** — 1,700+ 人的黑客松组队社群，零投流。
+- **大隆盛游戏 · 联合创始人** — 8 人独立游戏团队，首作已上 Steam。
 
-<div align="center">
-  <sub>Built with Claude Code · vibe-coded, zero hand-written lines</sub>
-</div>
+### 三份证据
+
+| 案例 | 结果 | 出处 |
+| --- | --- | --- |
+| 货代报价与单证系统（华南某国际货代，已脱敏） | 运营效率 +30%，系统进入日常使用 | 客户项目 · 2026.08 结项（客户口径） |
+| Linkathon 黑客松组队社群 | 1,700+ 人；3 天 400 人、4 周 1,000 人，零投流 | 社群统计 · 2026.10 |
+| 大隆盛《浮华工造·千机百炼》 | Steam 100% 好评（10 篇评测，样本有限），4 章 20 关四语 | [Steam](https://store.steampowered.com/app/3724560/) · 2026.09 复核 |
+
+### 公开仓库
+
+- **[world-sage](https://github.com/Robin-fang611/world-sage)** — 检索增强的智能体预设：世界知识 72.5% → 82.5%（CulturalBench，仓库自报）
+- **[vision-bridge-hook](https://github.com/Robin-fang611/vision-bridge-hook)** — 给 DeepSeek 装上眼睛：自动触发的视觉桥接 Hook
+- **[wuhan-food-map](https://github.com/Robin-fang611/wuhan-food-map)** — 武汉美食地图，上线收录 832 家商户，在线运行
+- **[echoes-of-yesterday](https://github.com/Robin-fang611/echoes-of-yesterday)** — 阿尔茨海默照护题材的叙事互动游戏
+
+### 我在找什么
+
+- **合作** — 传统企业（物流、制造、专业服务）的 AI 落地，驻场交付
+- **工作** — AI 应用公司的增长 / 产品角色（可实习，2028 届）
+- **社群** — 黑客松、校园 AI 活动、内容与资源合作
+
+邮箱 **weiyangfang950@gmail.com** ｜ 微信 **weiyangfang950** ｜ [主页（卷宗版，中英双语）](https://robin-fang611.github.io/)
+
+<details>
+<summary>English</summary>
+
+Marketing major turned AI-native builder. I embed with businesses to ship AI into freight quoting and documentation (30% efficiency gain, client-reported), co-build a 1,700+ hackathon team-forming community, and co-found an indie game studio. Open to on-site AI delivery, growth/product roles (class of 2028), and community partnerships.
+
+→ [robin-fang611.github.io/en](https://robin-fang611.github.io/en/) · weiyangfang950@gmail.com
+
+</details>
+
+<sub>主页与这份 README 共用一份事实源；每个数字都带口径与时间。</sub>
